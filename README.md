@@ -8,7 +8,6 @@ The recommendation engine, uses information about products and each product will
     Title of the product  
     Brand of the product
     Color of the product
-    Type of the product
     Image of the apparel
 
 Data Source: Amazon.com
